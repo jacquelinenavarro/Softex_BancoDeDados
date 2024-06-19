@@ -1,0 +1,7 @@
+membro_id;nome;cargo;genero;tarefa_id;descricao;membro_id;data_inicio;data_finalizacao
+1;Paulo;Programador 1;M;1;Criar a classe produto;1;17/06/2024;17/06/2024
+2;João Silva;Desenvolvedor Full Stack;M;2;Desenvolver novo módulo de login para o sistema;2;17/06/2024;17/06/2024
+3;Maria Santos;Analista de Banco de Dados;F;3;Testar e validar integração com API externa;3;17/06/2024;17/06/2024
+4;Pedro Oliveira;Engenheiro de Software;M;4;Realizar manutenção preventiva nos servidores;4;17/06/2024;17/06/2024
+5;Ana Costa;Administrador de Rede Sênior;F;5;Criar documentação técnica do projeto XYZ;5;17/06/2024;17/06/2024
+6;Carlos Souza;Especialista em Segurança da Informação;M;6;Implementar melhorias na interface do usuário;6;17/06/2024;17/06/2024
